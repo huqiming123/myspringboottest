@@ -12,6 +12,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class Myspringboot3Application {
 
 	public static void main(String[] args) {
+		System.out.println("ls--aaa");
 		SpringApplication.run(Myspringboot3Application.class, args);
 	}
 
