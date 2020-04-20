@@ -13,6 +13,7 @@ public class Myspringboot3Application {
 
 	public static void main(String[] args) {
 		System.out.println("zs---bbbbb");
+		System.out.println("ls--aaa");
 		SpringApplication.run(Myspringboot3Application.class, args);
 	}
 
